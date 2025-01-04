@@ -2,4 +2,4 @@
 # Select an item from list
 
 videogames = ['Resident Evil','Metal Gear', 'Parasite Eve']
-print(videogames[1])
+print(videogames[-2])
