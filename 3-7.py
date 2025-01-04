@@ -16,7 +16,7 @@ print(f"{guests[0].title()}, felicidades aun estas invitado a la cena.")
 print(f"{guests[1].title()}, felicidades aun estas invitado a la cena.")
 
 print("Eliminando invitados de la lista...")
-del guests[0]
+del guests[1]
 del guests[0]
 
 print("La lista de invitados final es: ", guests)
